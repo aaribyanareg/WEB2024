@@ -1,0 +1,28 @@
+[{
+    "id":1,
+    "title": "ТПР",
+    "description": "Теория принятия решений",
+    "hours": 20,
+    "img": "https://upload.wikimedia.org/wikipedia/ru/9/9e/%D0%94%D0%BE%D0%BA_%D0%A5%D0%B0%D0%B4%D1%81%D0%BE%D0%BD.png"
+},
+
+
+{
+    "id":2,
+    "title": "АВС",
+    "description": "Автоматизация вычислительных систем",
+    "hours": 30,
+    "img": "https://catalog.detmir.st/media/FIm6iL6dSuldIUqUX-oTIBWugXu6A7LF624Qdbr9xmw=?preset=site_product_gallery_r1500"
+},
+
+
+{
+    "id":3,
+    "title": "Матанализ",
+    "description": "Математический анализ",
+    "hours": 25,
+    "img": ""
+}
+
+
+]
