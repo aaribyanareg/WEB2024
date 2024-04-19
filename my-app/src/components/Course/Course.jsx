@@ -1,15 +1,8 @@
-import styles from './Course.css'
-
-const Course = ({course}) => {
-
+const Course = () =>{
     return(
-        <div className={styles.course}>
-            <h3>{course.title}</h3>
-             <img src={course.img} alt={course.title} style={{ width: '200px', height: '200px' }} />
-             <p>{course.description}</p>
-             
+        <div>
+            <h3>Title</h3>
+            <p>description</p>
         </div>
-    );
-};
-
-export default Course;
+    )
+}
