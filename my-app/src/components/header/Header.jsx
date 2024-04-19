@@ -1,23 +1,11 @@
-import styles from './Header.module.css';
+import styles from './Header.css'
 
 const Header = () => {
     return(
-        <div>
-
-            <header className={styles.header}>
-            {/* <header> */}
-            <h1>
-                Create  App
-            </h1>
-            </header>
-            <p>description</p>
-            <nav>
-                <a href="#">One</a>
-                <a href="#">Two</a>
-                <a href="#">Three</a>
-            </nav>
-            </div>
+        <div className={styles.header}>
+            <h1>Университет "Дубна"</h1>
+        </div>
     );
-}
+};
 
 export default Header;
