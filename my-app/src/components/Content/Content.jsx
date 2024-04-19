@@ -1,4 +1,4 @@
-import styles from './Content.module.scss'
+import styles from './Content.css'
 
 const Content = () => {
     return(

@@ -4,60 +4,44 @@
       "title": "Введение в программирование",
       "description": "Основы программирования на языке Python. Вводные лекции о структурах данных, алгоритмах и основных принципах разработки ПО.",
       "study_hours": 60,
-      "img": "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-66/512/programming-coding-ai-application-1024.png"
+      "img": "../img/prog.jpg"
     },
     {
       "id": 2,
       "title": "Математический анализ",
       "description": "Изучение основ математического анализа: пределы функций, производные, интегралы. Применение математических методов в науке и технике.",
       "study_hours": 90,
-      "img": "https://png.pngtree.com/png-clipart/20230805/original/pngtree-analysis-icon-structure-chart-science-vector-picture-image_9732384.png"
+      "img": "https://teach-in.ru/img/hd/course/calculus-butuzov-part3.jpg?129"
     },
     {
       "id": 3,
-      "title": "История мировой литературы",
-      "description": "Обзор основных этапов развития мировой литературы от древности до современности. Анализ произведений различных литературных направлений и эпох.",
+      "title": "История",
+      "description": "Обзор основных этапов развития мировой истории от древности до современности. Анализ произведений различных исторических направлений и эпох.",
       "study_hours": 45,
-      "img": "https://thumbs.dreamstime.com/b/значок-истории-черно-белый-знак-104622600.jpg"
+      "img": "https://patygorsk.5iz5.ru/artimg/images/116526_or.jpg"
     },
     {
       "id": 4,
-      "title": "Экономика",
-      "description": "Основы экономической теории: микроэкономика и макроэкономика. Изучение экономических процессов и методов анализа экономических явлений.",
+      "title": "Автоматизация вычислительных систем",
+      "description": "АВС",
       "study_hours": 75,
-      "img": "https://cdn.onlinewebfonts.com/svg/download_548826.png"
+      "img": "https://lh5.googleusercontent.com/proxy/TQmaKJpitbBUaE_wqXfLlBfuQhlIqPrxp26MmOM1tAWxRFZz86M9sOJ02BaZoHvgf46tNX8gFuEOuMfcPBHpHA"
     },
 
     {
         "id": 5,
         "title": "Разработка веб приложений",
-        "description": "Основы программирования на языке Python. Вводные лекции о структурах данных, алгоритмах и основных принципах разработки ПО.",
+        "description": "Вэб",
         "study_hours": 60,
-        "img": "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-66/512/programming-coding-ai-application-1024.png"
+        "img": "https://i-vuz.com/prikladnaya-inform-mag.jpg"
       },
 
       {
         "id": 6,
-        "title": "Математическая логика и теория алгоритмов",
-        "description": "Основы программирования на языке Python. Вводные лекции о структурах данных, алгоритмах и основных принципах разработки ПО.",
+        "title": "ООП",
+        "description": "Объектно ориентированное программирование",
         "study_hours": 60,
-        "img": "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-66/512/programming-coding-ai-application-1024.png"
-      },
-
-      {
-        "id": 7,
-        "title": "Теория баз данных",
-        "description": "Основы программирования на языке Python. Вводные лекции о структурах данных, алгоритмах и основных принципах разработки ПО.",
-        "study_hours": 60,
-        "img": "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-66/512/programming-coding-ai-application-1024.png"
-      },
-
-      {
-        "id": 8,
-        "title": "Структуры алгоритмов и обработки данных",
-        "description": "Основы программирования на языке Python. Вводные лекции о структурах данных, алгоритмах и основных принципах разработки ПО.",
-        "study_hours": 60,
-        "img": "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-66/512/programming-coding-ai-application-1024.png"
+        "img": "https://timeweb.com/ru/community/article/7a/7ae295877cd95063e180b3c0b78f6563.jpg"
       }
 
   ]

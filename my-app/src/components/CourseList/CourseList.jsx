@@ -1,4 +1,4 @@
- import styles from './CourseList.module.scss'
+ import styles from './CourseList.css'
 
  import data from '../../data.json';
 import Course from '../Course/Course';
