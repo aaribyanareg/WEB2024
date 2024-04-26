@@ -9,8 +9,8 @@ class App extends React.Component {
     super(props);
     this.state = {
       items: [
-        { id: 1, title: 'Product A', img: 'magaz.jpg', desc: 'Description of Product A', price: '20 USD' },
-        { id: 2, title: 'Product B', img: 'Shrek.png', desc: 'Description of Product B', price: '30 USD' },
+        { id: 1, title: 'Product A', img: 'na1.jpg', desc: 'Description of Product A', price: '20 USD' },
+        { id: 2, title: 'Product B', img: 'na1.jpg', desc: 'Description of Product B', price: '30 USD' },
         { id: 3, title: 'Product C', img: 'product_c.jpg', desc: 'Description of Product C', price: '25 USD' },
         { id: 4, title: 'Product D', img: 'product_d.jpg', desc: 'Description of Product D', price: '40 USD' }
       ]
