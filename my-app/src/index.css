@@ -29,7 +29,7 @@ header .logo {
 
 header .presentation {
   margin: 0 auto;
-  background: url('./img/magaz.jpg') no-repeat center center;
+ 
   height: 300px;
   background-size: contain;
   position: relative;
@@ -47,7 +47,8 @@ header .presentation::before {
 }
 
 header .presentation::after {
-  content: 'Cyber Store';
+  margin-left: 40%;
+  content: 'Technoshop';
   position: absolute;
   left: 10%;
   top: 50%;
@@ -61,13 +62,14 @@ header .presentation::after {
 
 main {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  margin-top: 20px;
   flex-wrap: wrap;
   padding: 0 20px;
 }
 
 main .item {
-  width: calc(33.333% - 40px);
+  width: 350px;
   margin-bottom: 50px;
   background: #000;
   overflow: hidden;
@@ -79,13 +81,13 @@ main .item {
 }
 
 main .item img {
-  width: calc(100% - 40px);
+  width: 300px;
   height: auto;
   object-fit: cover;
-  margin-top: 20px;
-  margin: 0 auto;
+margin-left: 5px;
   border-radius: 10px;
   transition: transform 0.3s ease;
+  margin-top: 20px;
 }
 
 main .item img:hover {
@@ -96,7 +98,7 @@ main .item img:hover {
 main .item h2,
 main .item p,
 main .item .price {
-  margin: 10px 0;
+  margin: 35px 0;
   color: #0af;
 }
 
