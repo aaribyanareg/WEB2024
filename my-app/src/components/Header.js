@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <div className="presentation">
         <ShopIcon className="shop-icon" /> 
-        <h1>Online Store</h1> 
+        <h1>Technoshop</h1> 
       </div>
     </header>
   );
