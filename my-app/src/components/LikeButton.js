@@ -34,7 +34,7 @@ const LikeButton = ({ productId }) => {
       className={`like-button ${liked ? 'liked' : ''}`}
       onClick={toggleLike}
     >
-      {liked ? '❤️' : '🤍'}
+     {liked ? '😍' : '🙂 '}
     </button>
   );
 };

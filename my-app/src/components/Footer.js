@@ -3,7 +3,6 @@ import React from 'react';
 export default function Footer() {
   return (
     <footer>
-      <div>© OOO Baraholka</div>
       <div className="footer-columns">
         <div className="footer-column">
           <h3>Контакты</h3>
@@ -19,9 +18,9 @@ export default function Footer() {
         <div className="footer-column">
           <h3>Социальные сети</h3>
           <div className="social-icons">
-            <a href="#!"><img src="facebook_icon" alt="Facebook" /></a>
-            <a href="#!"><img src="twitter_icon" alt="Twitter" /></a>
-            <a href="#!"><img src="instagram_icon" alt="Instagram" /></a>
+          <a href="#!"><img src="https://cdn-icons-png.flaticon.com/256/124/124010.png" alt="Facebook" /></a>
+            <a href="#!"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="Twitter" /></a>
+            <a href="#!"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" /></a>
           </div>
         </div>
       </div>
